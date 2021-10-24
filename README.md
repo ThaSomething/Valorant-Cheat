@@ -13,6 +13,6 @@ Picture of the menu:
 
 [+] - Download it, then compile the cheat
 
-[+] - Put both the ValoPublicCheat.exe and the .dll in the same folder and run the .exe
+[+] - Now run ValoPublicCheat.exe
 
 [+] - Open Valorant and press shift + f3 to open the cheat menu
